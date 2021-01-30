@@ -2,15 +2,6 @@
 
 A website for Restaurant.
 
-# Get the project locally
-
-Do git clone
-
-```
-git clone https://github.com/brgtrainings/ktm-restaurant
-cd ktm-restaurant
-```
-
 # Building Stages
 
 ### Step 1: Navbar
