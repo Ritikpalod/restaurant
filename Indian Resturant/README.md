@@ -1,4 +1,4 @@
-# Kathmandu Restaurant
+# Indian Restaurant
 
 A website for Restaurant.
 
